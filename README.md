@@ -1,0 +1,2 @@
+NovaAI is a modern, responsive landing page designed for an AI-powered technology brand. The website focuses on creating a visually appealing and professional user experience using modern HTML5 and CSS3 techniques.
+This project was developed as part of the Oasis Infobyte Internship Program (OIBSIP) under the Web Development Track.
